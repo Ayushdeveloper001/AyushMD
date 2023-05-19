@@ -32,15 +32,15 @@
 require("dotenv").config();
 let gg = process.env.MODS;
 if (!gg) {
-  gg = "918101187835";   // You can Change this number //
+  gg = "16468338933";   // You can Change this number //
 }
 
 // -------------------------------------------------------------- //
 
 
 global.owner = gg.split(",");
-global.mongodb = process.env.MONGODB || "mongodb+srv://fantox:xrto71r@cluster0.dnlowts.mongodb.net/?retryWrites=true&w=majority";
-global.sessionId = process.env.SESSION_ID || "ok";
+global.mongodb = process.env.MONGODB || "mongodb://ufpfarruhxiudpomfbhu:hQpYebkyQhhsh69ATAO@bk8nauglbb2fzzk06rup-mongodb.services.clever-cloud.com:2597/bk8nauglbb2fzzk06rup";
+global.sessionId = process.env.SESSION_ID || "session isop";
 global.prefa = process.env.PREFIX || "-";
 global.tenorApiKey =
   process.env.TENOR_API_KEY || "AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c";
