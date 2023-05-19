@@ -67,7 +67,9 @@ const now = new Date();
         }
       let textHelpMenu = `${greeting} *${pushName}* Senpai,
 
-I am *${botName}*, a bot developed by *Team Atlas*.
+I am *${botName}*,
+
+💝 My Owner Is *${malik}*
 
 🎀 My prefix is: *${prefix}*
 
@@ -293,7 +295,6 @@ Here's the list of my Commands.\n
       }
 
       textHelpMenu += `*🔰  ${botName}  🔰*
- _Powered By:_ *Team ATLAS*
 
 🎀 To use any of these commands type " *${prefix}Command name* ".
 
