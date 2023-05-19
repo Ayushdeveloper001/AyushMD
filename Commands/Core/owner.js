@@ -1,11 +1,11 @@
 const { mku } = require("../../Database/dataschema.js");
 
 module.exports = {
-  name: "owner",
+  name: "ayush",
   desc: "To view the list of current Mods",
-  alias: ["modlist", "mods", "mod"],
+  alias: ["ayushbhai", "helpayush"],
   category: "Core",
-  usage: "owner",
+  usage: "ayush",
   react: "🏅",
   start: async (Miku, m, { text, prefix }) => {
     try {
