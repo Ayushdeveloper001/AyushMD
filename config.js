@@ -47,6 +47,9 @@ global.tenorApiKey =
 global.packname = process.env.PACKNAME || `Atlas MD`;
 global.author = process.env.AUTHOR || "by: Team Atlas";
 global.port = process.env.PORT || "8000";
+global.malik = process.env.MALIK || "Ayush";
+global.maliknumber = process.env.MALIKNUMBER || "16468338933";
+
 
 module.exports = {
   mongodb: global.mongodb,
