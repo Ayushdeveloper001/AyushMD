@@ -138,7 +138,7 @@ async function startMiku() {
             level: 'silent'
         }),
         printQRInTerminal: true,
-        browser: ['Atlas MD', 'Safari', '1.0.0'],
+        browser: ['Ayush MD', 'Safari', '1.0.0'],
         auth: state,
         version
     })
