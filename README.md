@@ -149,27 +149,8 @@
 
 <p align="center" >
     <br>
-    __________________________
-    <br>
-</p>
-
-
-
-</details>
-
-<br>
-
-
     
     
-:
-      
-- [Fork Main Repo](https://github.com/Ayushdeveloper001/Atlas-MD/fork)
-
-PREFIX | Any single special character except `@` (`Ex: . or / or * or , etc.`)
-TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c`
-  
-<br>
       
 - Next start deploy and wait for 3-4 minutes.
 - After it's done click on `Manage App`.
@@ -188,69 +169,11 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
 - [Fork Main Repo](https://github.com/FantoX001/Atlas-MD/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
 - Click on `Deploy to Railway` button ( `For those who didn't modified bot.`). If you modified bot and want to deploy your modified version `I'm sorry to say as Koyeb works through Quay.io hosted docker so you can't deploy your modified version in fully 100% working state.` Though you can deploy manually your Github repo in Koyeb but in that case bot's 100% commands will not work.
-- Those who are deploying through button: Put all necessary details there according to instructions given there (Don't forget to change MongoDB URL an put your URL).
-- Those who are deploying manually from Koyeb website put these `Enviroment Variables` before start deploying ( Mandatory).
-      
-<br>
-      
-KEY | VALUE
--- | --
-MODS | Phone numbers in this format (`918101187876`,`925897863489`) without `+` or `SPACE`.
-MONGODB | Your MongoDB URL
-SESSION_ID | Any random value (`EX: gwfdrte5678`) and `keep it copied`.
-PREFIX | Any single special character except `@` (`Ex: . or / or * or , etc.`)
-TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c`
-  
-<br>
-      
-- 10 minutes later when Deploy is completed click on that generated weblink to go to QR page.
-- just put your Previously copied `Session ID` and click on `Get QR`.
-- Scan the QR from WhatsApp ---> Linked devices ---> Link a device.
-- If you are having issues follow [Koyeb Deploy Tutorial](https://youtu.be/OvNnpK1Gx6Y).  
-  
-
-<br><br>
-      
-  
-## 🪟 CMD / VS Code / Powershell / Terminal Deployment Method 
-
-- [Download Updated code](https://github.com/FantoX001/Atlas-MD/archive/refs/heads/main.zip) from Main GitHub Repo or Download from your Forked Repo.
-- Extract the `.zip` and open Vs code / Cmd / Powershell / Terminal in that directory and give thesse following commands one-by-one:
-- Rename `.env.example` to `.env` and fill in the required details in `.env` file and `config.js` (Mandatory).
-
-```
-npm i
+- Those who are deploying through button: Put all necessary details there according to instructions given there (Don't forget to change MongoDB URL an p
 npm start
 ```
+userland
 
-- To get new QR if you logged out from the WhatsApp linked device section go to `.env` file and change `SESSION_ID` to any random string and save it by clicking on `Commit Changes`.
-
-### ✧ Requirements for CMD/VS code istallation:
-- [Node.js](https://nodejs.org/en/download/)
-- [Git](https://github.com/git-guides/install-git)
-- FFmpeg ( [for Windows](https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/) or [for Linux](https://www.tecmint.com/install-ffmpeg-in-linux/) or [for Mac](https://ffmpeg.org/download.html) )
-- Libwebp (Not necesary for Windows).
-
-Note: If you don't pre-install these before CMD / VS code Installation bot will not start!
-</br> 
-
----
-<br>  
-      
-
-## 🐧 UserLand Deployment Method (Not Recommented a bit)
-
-
-#### ⚜️ Download `UserLand` application old version ( 3.1.2 ) from [Here](https://m.apkpure.com/userland-linux-on-android/tech.ula/variant/3.1.2-APK).
-#### ⚜️ Install `Debian` terminal in userland.
-#### ⚜️ Rename `.env.example` to `.env` and fill in the required details in `.env` file and `config.js` (Mandatory).
-
-</p>
-
-### UserLand commands:
-
-
-```
 sudo apt update
 sudo apt upgrade
 sudo apt install bash
