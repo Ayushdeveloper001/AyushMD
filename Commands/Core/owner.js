@@ -28,7 +28,7 @@ module.exports = {
 
         const uptime = () => formatTime(process.uptime());
 
-        await Miku.sendMessage(m.from,{image:{url:botImage1},caption:`\nKonichiwa *${pushName}* senpai, I am *${botName}* and my owner is *${malik} and their Number is wa.me/${maliknumber}\n`},{quoted:m})
+        await Miku.sendMessage(m.from,{image:{url:botImage1},caption:`\nKonichiwa *${pushName}* senpai, I am *${botName}* and my owner is *${malik}* and their Number is wa.me/${maliknumber}\n`},{quoted:m})
 
     }
 
