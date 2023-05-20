@@ -60,16 +60,15 @@ Video Host: https://graph.org/
 ** Note: 
 Do not change or remove present charID. You can add more characters by adding more charID sequentially.
 Add character name, video link, and image links.
-Don't forget to change "charlist.js" and "setchar.js" insdide "Commands\Mods\"  folder.
-
+Don't forget to change "charlist.js" and "setchar.js" insdide "Commands\Mods\"  folder
 */
 
 
 
 global.charID0 = {
-    botName : "Ayush MD",
+    botName : "Atlas MD",
 
-71
+
 
     botVideo : "https://graph.org/file/e3b2ee218b98b8679bf98.mp4",
     botImage1 : "https://i.imgur.com/MClOeqe.jpeg",
