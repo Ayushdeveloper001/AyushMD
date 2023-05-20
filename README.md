@@ -4,44 +4,7 @@
   </a>
 
 <h1 align="center"> Atlas MD
-</h1>
-
-<p align="center"> 
-Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="https://github.com/FantoX001">FantoX</a> and his team "Atlas" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
-
-<h3 align="center"> Atlas MD - The Future Is Here
-</h4>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/Ayushdeveloper001/Atlas-MD/fork">
-    <img src="https://img.shields.io/github/forks/FantoX001/Atlas-MD?label=Fork&style=social">
-    
-    
-  <a href="https://github.com/FantoX001/Atlas-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/FantoX001/Atlas-MD?style=social">
-  </a>
-
-<br>
-
-<a href="https://github.com/FantoX001/Atlas-MD">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Atlas-MD.visitor-badge&left_text=Total%20People%20Visited">
-  </a>
-  <br><br>
-  
-<p align="center">
-<a href="https://github.com/FantoX001"><img title="Owner" src="https://img.shields.io/badge/Owner-Team Atlas-white.svg?style=for-the-badge&logo=github" width="170px"></a>
-
- <a href="https://github.com/FantoX001/Atlas-MD/blob/main/LICENSE.md">
-  
-<img src='https://img.shields.io/github/license/FantoX001/Atlas-MD?color=%231e81b0&style=for-the-badge' width="114px">
-
-<p align="center">
-<a href="https://github.com/FantoX001"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-YES-green.svg?style=for-the-badge" width="150px"></a>
-<a href="https://github.com/FantoX001"><img title="" src="https://img.shields.io/badge/Maintained-YES-green.svg?style=for-the-badge" width="143px"></a>
-</p>
-<br>
+ 
 
 ---
  <br>
@@ -53,7 +16,7 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
  
 <br><br>   
     
-<h4 align="center"> Deploy on Repl.it - ( YouTube Tutorial Included & Highly Recommended )
+<h4 align="center"> Deploy on Repl.it - ( Highly Recommended )
 </h4>
 
 <p align="center" >
@@ -61,7 +24,8 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
     <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
     </a>
     <br>     
-    <a href="https://youtu.be/R-_DU73UH8Q"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+    <a
+       src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
 </p>
 
@@ -81,7 +45,7 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
     <img src="https://railway.app/button.svg" alt="Deploy on Railway" width="170px">
     </a>
     <br>
-    <a href="https://youtu.be/Qs6ryWnEtu8"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+    <a src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
 </p>
 
@@ -198,56 +162,10 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 
     
     
-# 📑 Atlas Deploy and Hosting guide
+:
+      
+- [Fork Main Repo](https://github.com/Ayushdeveloper001/Atlas-MD/fork)
 
-<details close>
-<summary>Click to read Deploy Manual</summary>    
-    
-## 🔶 Repl.it Deploy:
-      
-- [Fork Main Repo](https://github.com/FantoX001/Atlas-MD/fork)
-- Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
-- Click on `Deploy to Repl.it` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/Fantox01/Atlas-MD` to your fork URL `https://github.com/<Your GitHub Username>/<Your Atlas fork repo name>`.
-- After cloning is done in Repl.it go to `Secrets` in your Repl.it project and put these values (Mandatory).
-  
-<br>
-      
-KEY | VALUE
--- | --
-MODS | Phone numbers in this format (`918101187876`,`925897863489`) without `+` or `SPACE`.
-MONGODB | Your MongoDB URL
-SESSION_ID | Any random value (`EX: gwfdrte5678`) and `keep it copied`.
-PREFIX | Any single special character except `@` (`Ex: . or / or * or , etc.`)
-TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c`
-  
-<br>
-      
-- Next click on `Green Play button` in Repl.it to start bot installation.
-- After it's deployed an webpage should appear just put your Previously copied `Session ID` and click on `Get QR`.
-- Scan the QR from WhatsApp ---> Linked devices ---> Link a device.
-- After connecting come back to Repl.it and copy that Website (Webview) link from Repl.it.
-- Next create a [UptimeRobot](https://uptimerobot.com/?rid=40f9e46fb079d4) account and add that copied lin kas an `HTTPS` monitor in UptimeRobot.
-- UptimeRobot will prevent Repl.it's auto sleep.
-- If you are having issues follow [Repl.it Deploy Tutorial](https://youtu.be/R-_DU73UH8Q).
-      
-<br><br>
-      
-      
-      
-## ⚛️ Heroku Deploy:
-      
-- [Fork Main Repo](https://github.com/FantoX001/Atlas-MD/fork)
-- Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
-- Click on `Deploy to Heroku` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/Fantox01/Atlas-MD` to your fork URL `https://github.com/<Your GitHub Username>/<Your Atlas fork repo name>` also got to `app.json` and change `Website` ans `Repository` link from my link to your link. Then click on `Deploy to Heroku` button.
-- Then put these values in environment variables accordint to instructions (Mandatory).
-  
-<br>
-      
-KEY | VALUE
--- | --
-MODS | Phone numbers in this format (`918101187876`,`925897863489`) without `+` or `SPACE`.
-MONGODB | Your MongoDB URL
-SESSION_ID | Any random value (`EX: gwfdrte5678`) and `keep it copied`.
 PREFIX | Any single special character except `@` (`Ex: . or / or * or , etc.`)
 TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c`
   
@@ -264,34 +182,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
       
     
       
-## 🔷 Railway Deploy:   
-- [Fork Main Repo](https://github.com/FantoX001/Atlas-MD/fork)
-- Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
-- Click on `Deploy to Railway` button ( `For those who didn't modified bot.`). If you modified bot and want to deploy your modified version in Railway then that button will not help you. Go to Railway website and deploy github repo from there manually.
-- Those who are deploying through button: Put all necessary details there according to instructions given there.
-- Those who are deploying manually from Railway website put these `Enviroment Variables` before start deploying ( Mandatory).
-      
-<br>
-      
-KEY | VALUE
--- | --
-MODS | Phone numbers in this format (`918101187876`,`925897863489`) without `+` or `SPACE`.
-MONGODB | Your MongoDB URL
-SESSION_ID | Any random value (`EX: gwfdrte5678`) and `keep it copied`.
-PREFIX | Any single special character except `@` (`Ex: . or / or * or , etc.`)
-TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c`
-  
-<br>      
- 
-- 5-6 minutes later when Deploy is completed click on that generated domain to go to QR page.
-- just put your Previously copied `Session ID` and click on `Get QR`.
-- Scan the QR from WhatsApp ---> Linked devices ---> Link a device.
-- If you are having issues follow [Railway Deploy Tutorial](https://youtu.be/Qs6ryWnEtu8).
-      
-<br><br> 
-      
-      
-      
+
       
 ## ❇️ Koyeb Deploy:   
 - [Fork Main Repo](https://github.com/FantoX001/Atlas-MD/fork)
@@ -394,7 +285,7 @@ npm i
 npm start
 
 ``` 
-- Note in `git clone <my bot's repo>` section your can use Your customised bot's github link too (For that make sure you [Forked](https://github.com/FantoX001/Atlas-MD/fork) this repo and modified `.env` file and `config.js`).
+- Note in `git clone <my bot's repo>` section your can use Your customised bot's github link too (For that make sure you [Forked](https://github.com/Ayushdeveloper001/Atlas-MD/fork) this repo and modified `.env` file and `config.js`).
 - This method will work on most other bots too.
 
 #### 📌 To stop a bot in Userland
@@ -422,131 +313,9 @@ npm start
 
 
 #### ⚜️ Note as UserLand is a physical server so you must keep on your internet connection active to make sure bot works. Otherwise bot will be down.
-<br><br>
 
 
-</details> 
 
-<br><br>  
-    
+
     
 
-<h4 align="center"> Join my WhatsApp Group for Discussion / Suggestion / Help.
-</h4>
-
-<p align="center" >
-<a href="https://cutt.ly/AtlasSupportStrict"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
-</a>
-</p>
-    
----
-<br>
-    
-
-# ⚡️ Atlas Platform Compatibility:
-<br>
-
-- Atlas offers highest platform compatibility.
-- Just deploy and use on your favourite platform.
-- Sorted by Recommendation: Repl.it, Railway, Heroku, Koyeb
-      
-<br>
-      
-# 💫 Dependencies of Atlas:
-
-<br>
-
-- [Baileys Library](https://github.com/adiwajshing/Baileys)
-- [Scrappy API (For Instagram, Lyrics and ❌videos scraping )](https://github.com/FantoX001/Scrappy-API)
-- [FantoX APIs ( For NSFW )](https://fantox-api.vercel.app/)
-
-<br>
-
----
-# 🎀 Key Features:
-
-
-<details close>
-<summary>Read More</summary>
-      
-<br>
-
-- Read [PublicKeys.md](https://github.com/FantoX001/Atlas-MD/blob/main/PublicKeys.md) to use our `provided public keys` if you are lazy to create your own. We have already provided everying you need to run the bot.
-- Changeable between `20 added Characters` ( Atlas, Power, Makima, Denji, Zero Two, Chika, Miku, Marin Kitagawa ) and more can be added by user inside `BotCharacters.js` file. Type `-charlist` command to get character list.
-- Fully powered by MongoDb ( 3 databases added ).
-- Self / Public / Private mode.
-- Single prefix ( "-" ).
-- RPG and Economy added ( More coming soon ).
-- Group Chatbot / Dm Chatbot ( Only reply on quoted messages and and be turned off ).
-- 100+ NSFW commands ( Using my own API ). Visit: [My API Page](https://fantox-api.vercel.app) for more info. 
-- Highest Commands and Features.
-- User Banning / Group Banning.
-- Highest Security compared to most other public bots.
-
-</details>    
-    
-<br>
-
-
-# 〽️ Why Should You Use Atlas as your Base:
-
-      
-<details close>
-<summary>Read More</summary>
-
-<br>
-
-- Atlas is a `fully open source` bot which means `no copyright`.
-- Atlas is a `multi character bot` which means you can `change bot's character` to any of the 8 added characters or add more characters by yourself.
-- Atlas is a `multi database bot` which means you can use 3 different databases at the same time.
-- Atlas is a `multi mode` bot which means you can use it in `Self / Public / Private` mode.
-- Atlas has a pre installed chatbot which means you can use it as a `group chatbot and dm chatbot`.
-- Atlas has `Highest NSFW (100+)` which means you can use it as a `nsfw bot`.
-- Atlas has 300+ commands.
-- Atlas doesn't store your `Session File` locally which means it's `safe` and `secure`.
-- Atlas has `RPG and Economy` which means you can use it as a `RPG Bot` or `Casino Bot`.
-- Atlas has `User Banning / Group Banning` which means you can use it as a `Anti Spam Bot`.
-- Atlas is a Folder Type bot which represents `Highest Stability`, `Highest Performance` and `Developer / User friendly`.
-- Atlas comes with [MIT](https://github.com/FantoX001/Atlas-MD/blob/main/LICENSE.md) License which means you can use it as a `base for your own bot` and can `modify it as you want` and can `add your own features`.
-
-</details> 
-    
-<br>
-      
-
-
-# 🧣 Contributors:
-
-- Check [Atlas Contributors](https://github.com/FantoX001/Atlas-MD/graphs/contributors) list.
-- Feel free to contribute in this project. I will merge your respected contribution after reviewing it.
-    
-<br><br>
-
-# ⚠️ Warning:
-    
-- This bot is not made by WhatsApp.inc so overusing this bot may result in WhatsApp account ban.
-- We will only assist you in `Bot Deployment ( Installation or Hosting )`. Not in `Bot Development`.
-- If you Modify this bot and face any issues, I am not responsible for that because it's not possible for me or my team to help everyone in bot Development / Modification. Only modify if you know what you are doing.
-- This bot is made for `Educational / Fun / Group Management` purposes only. I and the team will not be responsible for any misuse of this bot.
-- We will only assist you in `Setup / Deployment` of this bot.
-
-<br><br>
-
-# 📛 Legal Disclaimer
-
-- We suggest you to use your `Own MongoDB URL` while deploying inside `.env` or `Environment Variables`. That will increase your Privacy and Security.
-- We don't recommend to change the `Economy database` we have added inside script. `If you do so, you will be responsible for any issues and we will not provide any support`.
-- We will not be responsible for any issues caused by any individual hosting this bot and cause any harm to any Group `(So don't make someone Group Admin who you don't know just because they are hosting the Bot)`.
-
-<br><br>
-
----
-<br>
-
-<h2 align="center">🔰 Meet Team Atlas 🔰
-</h2>
-
-[![Fantox](https://github.com/FantoX001.png)](https://github.com/FantoX001)  | [![Ahmii-kun](https://github.com/Ahmii-kun.png)](https://github.com/Ahmii-kun) | [![Pratyush](https://github.com/pratyush4932.png)](https://github.com/pratyush4932) | [![Devime](https://github.com/Devime69.png)](https://github.com/Devime69) | [![Kai](https://github.com/Kai0071.png)](https://github.com/Kai0071) | [![JayJay Ops](https://github.com/jayjay-ops.png)](https://github.com/jayjay-ops)
-----|----|----|----|----|----
-[FantoX](https://github.com/FantoX001)  | [Ahmii Kun](https://github.com/Ahmii-kun) | [Pratyush](https://github.com/pratyush4932) | [Devime](https://github.com/Devime69) | [Kai](https://github.com/Kai0071) | [Jayjay Ops](https://github.com/jayjay-ops)
-Owner, Main Developer, Maintainer, Dubugger  | Co-Developer, Co-Maintainer | Support Developer, Modules | Designing, API Maintainer | Ideas, Testing, Re-Checking | Ideas, Testing, Re-Checking
