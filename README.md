@@ -34,7 +34,7 @@
       
       
       
-<h4 align="center"> Deploy on Railway - ( YouTube Tutorial Included )
+<h4 align="center"> Deploy on Railway
 </h4>
   
 <p align="center">
@@ -54,7 +54,7 @@
 
 <br>
       
-<h4 align="center"> Deploy on Koyeb - ( YouTube Tutorial Included )
+<h4 align="center"> Deploy on Koyeb
 </h4>
       
 <p align="center">
@@ -76,7 +76,7 @@
 
 <br>
  
-<h4 align="center"> Deploy on Heroku ( Issue Fixed ! )
+<h4 align="center"> Deploy on Heroku
 </h4>
 
 </p>
@@ -149,31 +149,21 @@
     
     
       
-- Next start deploy and wait for 3-4 minutes.
-- After it's done click on `Manage App`.
-- Next go to `Recources` then turn on `Web: npm start` and disable other one `If there is any other button.`
-- After that go to More ---> view logs and wait for qr to appear.
-- When you see broken QRs are appearing chick on `Open app` and put your Previously copied `Session ID` and click on `Get QR`.
-- Scan the QR from WhatsApp ---> Linked devices ---> Link a device.
-      
-<br><br>      
-      
-    
-      
 
       
-## ❇️ Koyeb Deploy:   
-- [Fork Main Repo](https://github.com/FantoX001/Atlas-MD/fork)
-- Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
-- Click on `Deploy to Railway` button ( `For those who didn't modified bot.`). If you modified bot and want to deploy your modified version `I'm sorry to say as Koyeb works through Quay.io hosted docker so you can't deploy your modified version in fully 100% working state.` Though you can deploy manually your Github repo in Koyeb but in that case bot's 100% commands will not work.
-- Those who are deploying through button: Put all necessary details there according to instructions given there (Don't forget to change MongoDB URL an p
-npm start
-```
-userland
+
+__________________________
+
+    <br>
+
+</p>
+
+<br
+<h4 align="center"> Deploy on UserLand
 
 sudo apt update
 sudo apt upgrade
-sudo apt install bash
+sudo apt bash
 sudo apt-get install libwebp-dev
 sudo apt install git
 sudo apt install nodejs -y
@@ -204,38 +194,4 @@ cd Atlas-MD
 npm i
 npm start
 
-``` 
-- Note in `git clone <my bot's repo>` section your can use Your customised bot's github link too (For that make sure you [Forked](https://github.com/Ayushdeveloper001/Atlas-MD/fork) this repo and modified `.env` file and `config.js`).
-- This method will work on most other bots too.
-
-#### 📌 To stop a bot in Userland
-- Tap on `CTRL` button then tap on `C` from keyboard
-
-#### 📌 To start bot again ( While you are inside Atlas-MD folder {use `cd Atlas-MD` to get inside the folder} )
-- `npm start` or use `yarn start` to start bot again.
-
-
-#### 📌 Start bot after UserLand session is cleared
-```
-cd Atlas-MD
-npm start
-```
-#### 📌 What to do if you logged out from the WhatsApp linked device section and want to get new qr to login
-- Go to your GitHub fork of this bot and open `.env` file and change `SESSION_ID` to any random string and save it by clicking on `Commit Changes`.
-- Then open `UserLand` and run these commands one-by-one:
-
-```
-cd Atlas-MD
-git fetch origin
-git merge origin/main
-npm start
-```
-
-
-#### ⚜️ Note as UserLand is a physical server so you must keep on your internet connection active to make sure bot works. Otherwise bot will be down.
-
-
-
-
-    
 
