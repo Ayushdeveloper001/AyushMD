@@ -17,7 +17,7 @@
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/Ayushdeveloper001/Ayushmd">
+    <a href="https://repl.it/github/Ayushdeveloper001/Atlas-MD">
     <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
     </a>
     <br>     
