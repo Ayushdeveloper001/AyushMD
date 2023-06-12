@@ -6,7 +6,7 @@
 ---
  <br>
  
- # 🧩 Deploy Atlas
+ # 🧩 Deploy Ayush
      
 <details close>
 <summary>Click to choose your favourite platform to Deploy</summary>
@@ -17,7 +17,7 @@
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/Ayushdeveloper001/Ayush-Whatsappbot">
+    <a href="https://repl.it/github/ayushdeveloper001/Atlas-MD">
     <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
     </a>
     <br>     
@@ -82,7 +82,7 @@
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/Ayushdeveloper001/AyushMD">
+    <a href="https://heroku.com/deploy?template=https://github.com/Ayushdeveloper001/Atlas-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
