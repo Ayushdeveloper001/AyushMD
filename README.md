@@ -6,8 +6,8 @@
 ---
  <br>
  
- # 🧩 Deploy Ayush
-     
+ # 💙 Deploy  M
+ D    
 <details close>
 <summary>Click to choose your favourite platform to Deploy</summary>
  
