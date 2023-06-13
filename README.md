@@ -6,12 +6,11 @@
 ---
  <br>
  
- # 💙 Deploy  M
- D    
-<details close>
+ # 💙 Ayus MD<details close>
 <summary>Click to choose your favourite platform to Deploy</summary>
  
-<br><br>   
+<br><br> 
+ 
     
 <h4 align="center"> Deploy on Repl.it - ( Highly Recommended )
 </h4>
