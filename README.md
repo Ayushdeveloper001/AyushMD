@@ -1,3 +1,5 @@
+<h1 align="center"> Scan Qr code by Clicking on this link
+https://replit.com/@lokoca3787/Ayush-MD-Qr-Code
 
 
 <h1 align="center"> Ayush MD
