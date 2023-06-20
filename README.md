@@ -8,7 +8,7 @@ https://replit.com/@lokoca3787/Ayush-MD-Qr-Code
 ---
  <br>
  
- # 💙 Ayus MD<details close>
+ # 💙 Ayush MD<details close>
 <summary>Click to choose your favourite platform to Deploy</summary>
  
 <br><br> 
@@ -18,7 +18,7 @@ https://replit.com/@lokoca3787/Ayush-MD-Qr-Code
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/ayushdeveloper001/Atlas-MD">
+    <a href="https://repl.it/github/ayushdeveloper001/Secktor-Md">
     <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
     </a>
     <br>     
